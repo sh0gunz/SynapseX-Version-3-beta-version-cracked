@@ -27,7 +27,7 @@ Below is an example of how you can install and set up SynapseX.
  
 1. Clone the repo
    ```sh
-   git clone [https://github.com/your_username_/Project-Name.git](https://github.com/sh0gunz/SynapseX-Version-3-beta-version-cracked.git]
+   git clone [https://github.com/sh0gunz/SynapseX-Version-3-beta-version-cracked.git]
    ```
 2. Run 
    ```sh
