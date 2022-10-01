@@ -40,7 +40,7 @@ Below is an example of how you can install and set up SynapseX.
    ```
 4. Enjoy
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
